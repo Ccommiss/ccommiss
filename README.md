@@ -6,7 +6,7 @@
 
 ##### About me: 
 
-```whoami ``` :  french student in computer science.
+👩🏻‍💻 ```whoami ``` :  french student in computer science.
 
 
 
