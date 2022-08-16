@@ -1,6 +1,3 @@
-# Hello World ! 
-
-
 
 <img src="https://github.com/Ccommiss/ccommiss/blob/main/hello.svg" width="100%" height="100%" alt="css-in-readme">
 
