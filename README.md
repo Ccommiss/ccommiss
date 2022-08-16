@@ -8,7 +8,7 @@
 
 
 [![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccommiss)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccommiss&layout=compact&&exclude_repo=inception,ft_server)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccommiss&layout=compact&&exclude_repo=inception,ft_server&hide=Roff,Objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages : 
 
