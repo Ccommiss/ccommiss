@@ -5,7 +5,7 @@
 
 👩🏻‍💻 ``` whoami ``` :  french student in computer science. <br>
 📍 ``` pwd ``` : 42 Paris<br>
-🤍 ``` cat interests ``` 🎹 Jazz piano 🕸 Free Software 
+🤍 ``` cat interests ``` 🎹 Jazz piano 🌱 Free Software 
 
 
 
@@ -18,7 +18,7 @@
  </p>
 
 
-### ✗ Already studied : 
+### 💡 Already studied : 
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></img>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></img>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></img>
@@ -26,28 +26,40 @@
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></img>
 
 
-### ✗ In progress : 
+### 🛠 In progress : 
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></img>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></img>
 
 
 ## My activity on Github :  
 
-### Overview 
+
+### 👓 Global Overview 
 ---
   <p align="center">
   <img style="horizontal-align:middle;margin:50px 0px" src="https://github-readme-stats.vercel.app/api?username=ccommiss&theme=radical&show_icons=true&count_private=true&border_radius=10" />
 </p> 
 
+#### 🎳 Streak 
+
+---
+
+  <p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ccommiss&theme=radical" />
+</p> 
 
 
 
- ### Some projects  
+
+ ### 🧱 Some projects  
 --- 
+
+Here are some projects I enjoyed doing while studying. Have fun !
+
  <p align="left"> 
 
   <a href="https://github.com/ccommiss/minishell">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
+<img align="right src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
  </a> 
 <b>Minishell  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of a bash shell.<br>
  <br clear="right"/>
@@ -101,3 +113,6 @@
  <br clear="right"/>
 </p> 
  
+____ 
+
+## Made with 🤍 –– @ccommiss
