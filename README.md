@@ -46,7 +46,9 @@
 --- 
  <p align="left"> 
 
+  <a href="https://github.com/ccommiss/minishell">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
+ </a> 
 <b>Minishell  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of a bash shell.<br>
  <br clear="right"/>
 </p> 
@@ -54,7 +56,9 @@
 <br><br> 
 
  <p align="right"> 
+ <a href="https://github.com/ccommiss/ft_transcendence">
    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
+ </a>
    <b>ft_transcendence  &nbsp  &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" /> <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></img>
 </b><br> Web project. Game pong with a chat interface.
   <br clear="left"/>
@@ -64,7 +68,9 @@
  
 <p align="left"> 
 
+ <a href="https://github.com/ccommiss/ft_containers">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_containers&theme=radical" />
+ </a>
 <b>ft_containers  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></img>
 </b><br><br>Reproduction of containers from Standard Template Library (STL) : vector, stack, map, and set.<br> Implementation of a red and black tree (a balanced binary search tree).
  <br clear="right"/>
