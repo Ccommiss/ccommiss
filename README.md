@@ -5,6 +5,7 @@
 
 👩🏻‍💻 ```whoami ``` :  french student in computer science. <br>
 📍 ```pwd``` : 42 Paris<br>
+🤍 ``` cat interests ``` 🎹 Jazz piano 🕸 Free Software 
 
 
 
@@ -29,14 +30,8 @@
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></img>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></img>
 
-## Interests : 
 
-🎹 Jazz piano<br>
-🕸 Free Software 
-
-
-
-### My activity on Github :  
+## My activity on Github :  
 
  
   <p align="center">
