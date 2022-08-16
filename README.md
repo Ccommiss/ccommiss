@@ -47,7 +47,7 @@
  <p align="left"> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
-<b>Minishell  &nbsp &nbsp <img height="15" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of a bash shell.<br>
+<b>Minishell  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of a bash shell.<br>
  <br clear="right"/>
 </p> 
  
@@ -55,9 +55,18 @@
 
  <p align="right"> 
    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
-   <b>ft_transcendence  &nbsp  &nbsp <img height="15" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" /> <img height="15" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></img>
+   <b>ft_transcendence  &nbsp  &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" /> <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></img>
 </b><br> Web project. Game pong with a chat interface.
   <br clear="left"/>
 </p> 
 
+<br><br> 
+ 
+<p align="left"> 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_containers&theme=radical" />
+<b>ft_containers  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></img>
+</b><br><br>Reproduction of containers from Standard Template Library (STL) : vector, stack, map, and set.<br> Implementation of a red and black tree (a balanced binary search tree).
+ <br clear="right"/>
+</p> 
  
