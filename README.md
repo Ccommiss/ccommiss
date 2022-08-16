@@ -1,10 +1,10 @@
 
-<img src="https://github.com/Ccommiss/ccommiss/blob/main/hello.svg" width="100%" height="100%" alt="css-in-readme">
+<img src="https://github.com/Ccommiss/ccommiss/blob/main/hello.svg" width="100%" height="100%" alt="Hello World">
 
 ## About me: 
 
-👩🏻‍💻 ```whoami ``` :  french student in computer science. <br>
-📍 ```pwd``` : 42 Paris<br>
+👩🏻‍💻 ``` whoami ``` :  french student in computer science. <br>
+📍 ``` pwd ``` : 42 Paris<br>
 🤍 ``` cat interests ``` 🎹 Jazz piano 🕸 Free Software 
 
 
@@ -88,4 +88,16 @@
   <br clear="left"/>
 </p> 
 
+
+<br><br> 
+ 
+<p align="left"> 
+
+ <a href="https://github.com/ccommiss/cub3D">
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=Cub3D&theme=radical" />
+ </a>
+<b>Cub3d  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of so-called video game Wolfenstein 3D.<br>
+
+ <br clear="right"/>
+</p> 
  
