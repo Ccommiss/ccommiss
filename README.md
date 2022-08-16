@@ -2,7 +2,7 @@
 
 
 
-<img src="hello.svg" width="700" height="400" alt="css-in-readme">
+<img src="https://github.com/Ccommiss/ccommiss/blob/main/hello.svg" width="700" height="400" alt="css-in-readme">
 
 ##### About me: 
 
