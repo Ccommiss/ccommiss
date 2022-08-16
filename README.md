@@ -60,7 +60,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
  </a>
    <b>ft_transcendence  &nbsp  &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" /> <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></img>
-</b><br> Web project. Game pong with a chat interface.
+</b><br><br> Web project. Game pong with a chat interface.
   <br clear="left"/>
 </p> 
 
@@ -84,7 +84,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
  </a>
    <b>ft_irc (Internet Relay Chat) &nbsp  &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></img>
-</b><br> Coding an IRC server. <br> A first part is dedicated to set up connection using socket programming. <br> A second part is about writing the IRC protocol itself. This project has been tested with irssi as a client.
+</b><br><br> Coding an IRC server. <br> A first part is dedicated to set up connection using socket programming. <br> A second part is about writing the IRC protocol itself. This project has been tested with irssi as a client.
   <br clear="left"/>
 </p> 
 
