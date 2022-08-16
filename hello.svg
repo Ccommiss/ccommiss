@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 700 200" width="700" height="200" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
 
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -46,7 +46,8 @@ body {
 
   </style>
 <div class="typewriter">
-            <h1>Hello World ! My name is Claire, and I am a French computer science student. Welcome to my profile ! 👩🏻‍💻 </h1>
+            <h1>Hello World ! My name is Claire, and I am a French computer science student. 
+                <br> Welcome to my profile ! 👩🏻‍💻 </h1>
 </div>
         </div>
     </foreignObject>
