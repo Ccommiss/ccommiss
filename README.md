@@ -75,4 +75,17 @@
 </b><br><br>Reproduction of containers from Standard Template Library (STL) : vector, stack, map, and set.<br> Implementation of a red and black tree (a balanced binary search tree).
  <br clear="right"/>
 </p> 
+
+
+<br><br> 
+
+ <p align="right"> 
+ <a href="https://github.com/ccommiss/ft_irc">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
+ </a>
+   <b>ft_irc (Internet Relay Chat) &nbsp  &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></img>
+</b><br> Coding an IRC server. <br> A first part is dedicated to set up connection using socket programming. <br> A second part is about writing the IRC protocol itself. This project has been tested with irssi as a client.
+  <br clear="left"/>
+</p> 
+
  
