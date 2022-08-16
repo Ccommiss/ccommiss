@@ -1,11 +1,8 @@
-<svg fill="none" viewBox="0 0 700 200" width="700" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
 
     <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-
-
-
 /* GLOBAL STYLES */
 body {
   background: #333;
@@ -13,7 +10,6 @@ body {
   display: flex;
   justify-content: center;
 }
-
 /* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
   color: #fff;
@@ -27,27 +23,22 @@ body {
     typing 3.5s steps(30, end),
     blink-caret .5s step-end infinite;
 }
-
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
 }
-
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
-
  
-
-
-
   </style>
 <div class="typewriter">
-            <h1>Hello World ! My name is Claire, and I am a French computer science student. 
-                <br> Welcome to my profile ! 👩🏻‍💻 </h1>
+            <h1>Hello World ! </h1>
+	<h1> My name is Claire, and I am a French computer science student. </h1>
+<h1> Welcome to my profile ! 👩🏻‍💻 </h1>
 </div>
         </div>
     </foreignObject>
