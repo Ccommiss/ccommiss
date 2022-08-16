@@ -34,24 +34,28 @@
 ## My activity on Github :  
 
 ### Overview 
- 
+---
   <p align="center">
   <img style="horizontal-align:middle;margin:50px 0px" src="https://github-readme-stats.vercel.app/api?username=ccommiss&theme=radical&show_icons=true&count_private=true&border_radius=10" />
 </p> 
- 
- ### Some projects  
 
+
+
+
+ ### Some projects  
+--- 
  <p align="left"> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
-<b>Minishell</b><br><br>Simplified reproduction of a bash shell.<br> Language : <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<b>Minishell  &nbsp &nbsp <img height="15" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of a bash shell.<br>
  <br clear="right"/>
 </p> 
  
+<br><br> 
 
  <p align="right"> 
    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
-   <b>ft_transcendence <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" /> <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></img>
+   <b>ft_transcendence  &nbsp  &nbsp <img height="15" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" /> <img height="15" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></img>
 </b><br> Web project. Game pong with a chat interface.
   <br clear="left"/>
 </p> 
