@@ -93,7 +93,7 @@ Here are some projects I enjoyed doing while studying. Have fun !
 
  <p align="right"> 
  <a href="https://github.com/ccommiss/ft_irc">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_transcendence&theme=radical" /> 
+   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=ft_irc=radical" /> 
  </a>
    <b>ft_irc (Internet Relay Chat) &nbsp  &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></img>
 </b><br><br> Coding an IRC server. <br> A first part is dedicated to set up connection using socket programming. <br> A second part is about writing the IRC protocol itself. This project has been tested with irssi as a client.
