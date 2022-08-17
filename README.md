@@ -59,7 +59,7 @@ Here are some projects I enjoyed doing while studying. Have fun !
  <p align="left"> 
 
   <a href="https://github.com/ccommiss/minishell">
-<img align="right src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=minishell&theme=radical" />
  </a> 
 <b>Minishell  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of a bash shell.<br>
  <br clear="right"/>
