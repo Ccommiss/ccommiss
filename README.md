@@ -106,7 +106,7 @@ Here are some projects I enjoyed doing while studying. Have fun !
 <p align="left"> 
 
  <a href="https://github.com/ccommiss/cub3D">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=Cub3D&theme=radical" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=ccommiss&repo=Cub3D&theme=radical" />
  </a>
 <b>Cub3d  &nbsp &nbsp <img height="17" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></b><br><br>Simplified reproduction of so-called video game Wolfenstein 3D.<br>
 
